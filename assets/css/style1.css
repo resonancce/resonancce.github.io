@@ -6,7 +6,6 @@ html{
 }
 body {
 	background: linear-gradient(0deg, #5a6487, #6d79a3);
-	
 	color: black;
 	min-height: 100%;
 	display: block;
@@ -16,7 +15,7 @@ body {
 .wrapper {
   
     width: 100%;
-    max-width: 1300px;
+    max-width: 1000px;
 	margin: 0 auto;
    min-height: 100%;
 
